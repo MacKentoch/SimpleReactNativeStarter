@@ -1,7 +1,7 @@
 SimpleReactNativeStarter
 =====
 
-As its name say : it is a simple React Native Starter, no kidding :wink:
+As its name says : it is a simple React Native Starter, no kidding :wink:
 
 ##Content
 
